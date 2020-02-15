@@ -1,3 +1,6 @@
+/* *******************************************
+  this is the root componenet for admin module 
+******************************************** */
 import { Component, OnInit } from '@angular/core';
 
 @Component({
